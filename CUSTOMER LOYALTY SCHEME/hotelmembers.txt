@@ -1,0 +1,25 @@
+member-ID,Surname,Year-joined,Memberhsip-status,Nights-booked, Points-balance
+Smi22316,Smith,2016,gold,31,77500
+Mia56213,Miah,2013,platinum,141,1400000
+All78915,Allen,2015,platinum,143,202500
+Sel77617,Selby,2017,gold,40,45000
+Lee44213,Leewah,2013,gold,30,75000
+Smi86317,Smith,2017,silver,5,12500
+Nuj63317,Nujabes,2017,silver,13,32500
+Smi29017,Smith,2017,Silver,10,25000
+Smi43717,Smith,2017,gold,32,25000
+Jon86817,Jones,2017,silver,10,25000
+Gil95517,Gillies,2017,silver,28,70000
+Cai91224,Caitlin,2024,gold,311,47500
+Cla60424,Clara,2024,gold,37,92500
+Els46324,Elsie,2024,silver,2,5000
+Ter84224,Terry,2024,silver,3,7500
+Lol39424,Lola,2024,silver,12,30000
+Pep54924,Pepsi,2024,silver,32,50000
+Lol91224,Lola,2024,gold,36,90000
+Bab82124,Babe,2024,silver,10,25000
+Wew82324,Wewewe,2024,silver,2,5000
+Kee87324,Keeyes,2024,silver,11,27500
+Loc29424,Lochee,2024,silver,10,25000
+Tim64124,Timma,2024,silver,14,35000
+Glu50924,Glun,2024,silver,12,30000
